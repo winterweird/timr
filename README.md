@@ -5,6 +5,8 @@ This is just some stupid thing I made. Please don't take it too seriously.
 **NOTE:** Relies on ANSI escape sequences for formatting, and uses `g++ -std=c++17`
 for compilation.
 
+![GIF showing how it timr works](./timr.gif)
+
 ## Installation
 
 ```
