@@ -13,7 +13,8 @@ $ sudo make install
 ```
 
 This will make the tools `untl` and `timr` and install them in /usr/bin/. You
-can skip the last step if you'd like, or 
+can skip the last step if you'd like, or specify a different install path in the
+makefile.
 
 ## Usage
 
